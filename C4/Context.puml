@@ -1,0 +1,41 @@
+@startuml RedPack.ContextTc
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Context.puml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Container.puml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Component.puml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Deployment.puml
+!includeurl https://raw.githubusercontent.com/RicardoNiepel/C4-PlantUML/master/C4_Dynamic.puml
+
+!define DEVICONS https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons
+!define DEVICONS2 https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/devicons2
+!define FONTAWESOME https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/font-awesome-5
+!define MATERIAL https://raw.githubusercontent.com/tupadr3/plantuml-icon-font-sprites/master/material
+!include DEVICONS2/vuejs.puml
+
+!include FONTAWESOME/database.puml
+!include MATERIAL/apps.puml
+!include MATERIAL/extension.puml
+!include <cloudinsight/kafka>
+
+
+AddRelTag("color_line_red", $lineColor="red")
+AddRelTag("color_line_green", $lineColor="green")
+AddRelTag("color_line_blue", $lineColor="Blue")
+AddRelTag("color_line_gray", $lineColor="Gray")
+AddRelTag("boldline", $lineStyle = BoldLine(),$lineColor="orange")
+
+'LAYOUT_LANDSCAPE()
+'LAYOUT_LEFT_RIGHT()
+LAYOUT_TOP_DOWN()
+
+
+
+
+@enduml
+
+
+'Как рисовать
+' + Определите пользователей.
+' + Определите внешние системы.
+' + Создайте единый прямоугольник, изображающий вашу систему.
+' + Добавьте связи между системой, пользователями и внешними системами.
+' + Напишите содержательные комментарии по каждому компоненту.
