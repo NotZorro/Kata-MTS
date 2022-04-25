@@ -141,7 +141,8 @@
 ## Архитектура
 
 ### Контекст системы
-
+![](C4/Context Diagram.png)
 ### Контейнерная диаграмма
-
-### Компонентная диаграмма
+![](C4/Container diagram.png)
+### Компонентная диаграмма Content
+![](C4/Component diagram.png)
