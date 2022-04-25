@@ -141,8 +141,8 @@
 ## Архитектура
 
 ### Контекст системы
-![](https://gitlab.services.mts.ru/avendour/archkata/-/blob/master/C4/Context%20Diagram.png)
+![](C4/ContextDiagram.png)
 ### Контейнерная диаграмма
-![](https://gitlab.services.mts.ru/avendour/archkata/-/blob/master/C4/Container%20diagram.png)
+![](C4/ContainerDiagram.png)
 ### Компонентная диаграмма Content
-![](https://gitlab.services.mts.ru/avendour/archkata/-/blob/master/C4/Context%20Diagram.png)
+![](C4/ComponentDiagram.png)
