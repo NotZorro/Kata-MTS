@@ -3,6 +3,7 @@
 - [Наша команда](https://gitlab.services.mts.ru/avendour/archkata#команда-танго)
 - [Вводные](https://gitlab.services.mts.ru/avendour/archkata#вводные)
 - [Бизнес цели](https://gitlab.services.mts.ru/avendour/archkata#бизнес-цели)
+- [Бизнес требования](https://gitlab.services.mts.ru/avendour/archkata#бизнес-требования) 
 - [Стейкхолдеры](https://gitlab.services.mts.ru/avendour/archkata#стейкхолдеры)
 - [Сценарии](https://gitlab.services.mts.ru/avendour/archkata#сценарии)
 - [Требования к системе](https://gitlab.services.mts.ru/avendour/archkata#требования-к-системе)
