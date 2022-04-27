@@ -134,7 +134,9 @@
 
 
 ## Архитектура
-
+Все диграммы доступны на [sketchBoard](https://sketchboard.me/xC9nFpoPfhRf#/) или в [файле](../res/Board.json).
+### Легенда
+![](C4/Legend.png)
 ### Контекст системы
 ![](C4/ContextDiagram.png)
 ### Контейнерная диаграмма
