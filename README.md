@@ -1,19 +1,19 @@
 # MTS Kata "Шпаргалки" от команды Танго
 
-- [Наша команда](https://gitlab.services.mts.ru/avendour/archkata#команда-танго)
-- [Вводные](https://gitlab.services.mts.ru/avendour/archkata#вводные)
-- [Бизнес цели](https://gitlab.services.mts.ru/avendour/archkata#бизнес-цели)
-- [Бизнес требования](https://gitlab.services.mts.ru/avendour/archkata#бизнес-требования) 
-- [Стейкхолдеры](https://gitlab.services.mts.ru/avendour/archkata#стейкхолдеры)
-- [Сценарии](https://gitlab.services.mts.ru/avendour/archkata#сценарии)
-- [Требования к системе](https://gitlab.services.mts.ru/avendour/archkata#требования-к-системе)
-    - [Функциональные](https://gitlab.services.mts.ru/avendour/archkata)
-    - [Атрибуты качества](https://gitlab.services.mts.ru/avendour/archkata#атрибуты-качества)
-- [Architecture Decision Records](https://gitlab.services.mts.ru/avendour/archkata#architecture-decision-records)
-- [Архитектура](https://gitlab.services.mts.ru/avendour/archkata#архитектура)
-    -   [Контекст системы](https://gitlab.services.mts.ru/avendour/archkata#контекст-системы)
-    -   [Контейнерная диаграмма](https://gitlab.services.mts.ru/avendour/archkata#контейнерная-диаграмма)
-    -   [Компонентная диаграмма](https://gitlab.services.mts.ru/avendour/archkata#компонентная-диаграмма)
+- [Наша команда](../ReadMe.md#команда-танго)
+- [Вводные](../ReadMe.md/archkata#вводные)
+- [Бизнес цели](../ReadMe.md/#бизнес-цели)
+- [Бизнес требования](../ReadMe.md/#бизнес-требования) 
+- [Стейкхолдеры](../ReadMe.md/#стейкхолдеры)
+- [Сценарии](../ReadMe.md/archkata#сценарии)
+- [Требования к системе](../ReadMe.md/#требования-к-системе)
+    - [Функциональные](../ReadMe.md/archkata)
+    - [Атрибуты качества](../ReadMe.md/archkata#атрибуты-качества)
+- [Architecture Decision Records](../ReadMe.md/#architecture-decision-records)
+- [Архитектура](../ReadMe.md/archkata#архитектура)
+    -   [Контекст системы](../ReadMe.md/#контекст-системы)
+    -   [Контейнерная диаграмма](../ReadMe.md/#контейнерная-диаграмма)
+    -   [Компонентная диаграмма](../ReadMe.md/#компонентная-диаграмма)
 
 
 ## Команда "Танго"
