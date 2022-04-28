@@ -1,19 +1,17 @@
 # MTS Kata "Шпаргалки" от команды Танго
 
 - [Наша команда](../main/ReadMe.md#команда-танго)
-- [Вводные](../main/ReadMe.md/archkata#вводные)
-- [Бизнес цели](../main/ReadMe.md/#бизнес-цели)
-- [Бизнес требования](../main/ReadMe.md/#бизнес-требования) 
-- [Стейкхолдеры](../main/ReadMe.md/#стейкхолдеры)
-- [Сценарии](../main/ReadMe.md/archkata#сценарии)
-- [Требования к системе](../main/ReadMe.md/#требования-к-системе)
-    - [Функциональные](../main/ReadMe.md/archkata)
-    - [Атрибуты качества](../main/ReadMe.md/archkata#атрибуты-качества)
-- [Architecture Decision Records](../main/ReadMe.md/#architecture-decision-records)
-- [Архитектура](../main/ReadMe.md/archkata#архитектура)
-    -   [Контекст системы](../main/ReadMe.md/#контекст-системы)
-    -   [Контейнерная диаграмма](../main/ReadMe.md/#контейнерная-диаграмма)
-    -   [Компонентная диаграмма](../main/ReadMe.md/#компонентная-диаграмма)
+- [Вводные](../main/ReadMe.md#вводные)
+- [Бизнес цели](../main/ReadMe.md#бизнес-цели)
+- [Бизнес требования](../main/ReadMe.md#бизнес-требования) 
+- [Стейкхолдеры](../main/ReadMe.md#стейкхолдеры)
+- [Сценарии](../main/ReadMe.md#сценарии)
+- [Требования к системе](../main/ReadMe.md#требования-к-системе)
+- [Architecture Decision Records](../main/ReadMe.md#architecture-decision-records)
+- [Архитектура](../main/ReadMe.md#архитектура)
+    -   [Контекст системы](../main/ReadMe.md#контекст-системы)
+    -   [Контейнерная диаграмма](../main/ReadMe.md#контейнерная-диаграмма)
+    -   [Компонентная диаграмма](../main/ReadMe.md#компонентная-диаграмма)
 
 
 ## Команда "Танго"
